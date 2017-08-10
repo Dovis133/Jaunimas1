@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 /*.room-background {
-    background: url(http://i.imgur.com/uYMmCLL.png) no-repeat !important;
+    background: url(https://image.prntscr.com/image/nL40MQ6aTdS71wQSwOUJSg.jpg) no-repeat !important;
     width: 500% !important;
     height: 500% !important;
 }*/
@@ -84,7 +84,7 @@ i.icon.icon-room {
     height: 50px;
 }
 .icon-room {
-    background: url(https://rcs.radiant.dj/img/plugdj/badges/bdg-ss-superstar.png) no-repeat;
+    background: url(https://rcs.radiant.dj/img/plugdj/badges/bdg-ss-superstar.png) no-repeat !important;
     width: 0px;
     height: 0px;
     background-size: 100%;
